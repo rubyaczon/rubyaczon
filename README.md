@@ -5,7 +5,8 @@
   - [Practice Conducting a Security Audit] (https://github.com/rubyaczon/Security-Audit)  <br>
 -<b> Cybersecurity Incident Report </b>
   - [Sample Incident Report] (https://github.com/rubyaczon/Cybersecurity-Incident-Report <br>
-
+-<b> File Permissions in Linux</b>
+ - [Modifying File and Directory Permissions in Linux] (https://github.com/rubyaczon/File-Permissions-in-Linux) <br>
 
 
 
