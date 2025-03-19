@@ -7,6 +7,8 @@
   - [Sample Incident Report] (https://github.com/rubyaczon/Cybersecurity-Incident-Report <br>
 -<b> File Permissions in Linux</b>
  - [Modifying File and Directory Permissions in Linux] (https://github.com/rubyaczon/File-Permissions-in-Linux) <br>
+-<b> Completed Alert Ticket </b>
+ - [Practice Creating an Alert Ticket Following Steps from a Playbook for a Security Incident] (https://github.com/rubyaczon/Completed_Alert-ticket) <br>
 
 
 
